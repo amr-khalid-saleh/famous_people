@@ -1,4 +1,4 @@
-# t1
+# famous_people
 
 A new Flutter project.
 
